@@ -42,15 +42,13 @@ public class App {
 
     public void key(String ch) {
     	 if (ch.matches("X|x")) {
-             // System.out.println("Count: " + count);
-             screen.key(ch, count);
+              screen.key(ch, count);
              if (count > 0)
                  count--;
          }
          if (ch.matches("0|1|2|3|4|5|6|7|8|9")) {
              if (count < 23) {
                  count++;
-                 // System.out.println("Count: " + count);
                  screen.key(ch, count);
              }
          }
