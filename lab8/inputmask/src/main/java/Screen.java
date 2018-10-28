@@ -16,10 +16,7 @@ public class Screen implements IScreen, IDisplayComponent
         chain.key(ch, cnt) ;
     }
     
-    public void rem(int count) {
-		chain.rem(count);
-	}
-    
+  
     public void addSubComponent( IDisplayComponent c )
     {
         components.add( c ) ;
