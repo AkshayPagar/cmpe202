@@ -21,8 +21,6 @@ public class CreditCardNum implements IDisplayComponent, IKeyEventHandler
     }	
     
     
-
-    
 	public String display() {
 		if ( number.equals("") )
 			return "[4444 4444 4444 4444]" + "  " ;
