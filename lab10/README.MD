@@ -1,11 +1,11 @@
 
-**Gumball Machine Crank Model Value: 25 Cent**
+### Gumball Machine Crank Model Value: 25 Cent**
 ![crank25](https://user-images.githubusercontent.com/30582708/48976151-91cf9200-f036-11e8-9e9d-f64fe209e0f5.png)
 **Output:**
 ![crank25_op](https://user-images.githubusercontent.com/30582708/48976153-9431ec00-f036-11e8-8ae0-19db673546f7.png)
 
 
-**Gumball Machine Crank Model Value: 50 Cent**
+### Gumball Machine Crank Model Value: 50 Cent**
 ![crank50](https://user-images.githubusercontent.com/30582708/48976154-95fbaf80-f036-11e8-9f61-e4f8d8ce1dc4.png)
 **Output:**
 ![crank50_op](https://user-images.githubusercontent.com/30582708/48976155-972cdc80-f036-11e8-8be9-37316c79f7d0.png)
