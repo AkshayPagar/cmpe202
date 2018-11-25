@@ -7,7 +7,7 @@
 
 
 
-### Gumball Machine Crank Model Value: 50 Cent
+### https://github.com/AkshayPagar/cmpe202/blob/master/lab10/README.MDGumball Machine Crank Model Value: 50 Cent
 ![crank50](https://user-images.githubusercontent.com/30582708/48976154-95fbaf80-f036-11e8-9f61-e4f8d8ce1dc4.png)
 
 #### Output:
@@ -15,7 +15,7 @@
 
 
 
-**Gumball Machine Slot Model Value: 25 Cent**
+### Gumball Machine Slot Model Value: 25 Cent:
 ![slot25](https://user-images.githubusercontent.com/30582708/48976156-98f6a000-f036-11e8-8943-b94970ea8ec9.png)
 
 #### Output:
@@ -23,7 +23,7 @@
 
 
 
-**Gumball Machine Slot Model Value: 50 Cent**
+### Gumball Machine Slot Model Value: 50 Cent:
 ![slot50](https://user-images.githubusercontent.com/30582708/48976158-9bf19080-f036-11e8-9e2a-bea75175ae44.png)
 
 #### Output:
