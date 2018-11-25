@@ -5,6 +5,8 @@ We have used AspectJ feature programming in lab10 to implement the same problem 
 
 2. AspectJ also provided flexibility for future extension. We can introduce a new configuration for new machine value e.g. $1 Gumball machine or different machine type very efficiently. 
 
+## Screenshots showing the Feature Model Configs and Output:
+
 ### Gumball Machine Crank Model Value: 25 Cent
 ![crank25](https://user-images.githubusercontent.com/30582708/48976151-91cf9200-f036-11e8-9e9d-f64fe209e0f5.png)
 
